@@ -1,2 +1,2 @@
 # conflict-exercise
-Practica de conflicto
+Crear un conflicto
